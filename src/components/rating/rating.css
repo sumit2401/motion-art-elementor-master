@@ -1,0 +1,25 @@
+h2{
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 1;
+    color: aliceblue;
+
+}
+.rating{
+    padding: 1rem 18rem;
+}
+.rating-d{
+    display: flex;
+    justify-content: space-between;
+    color: aliceblue;
+
+    padding-top: 3rem;
+}
+.star{
+    display: flex;
+    justify-content: space-between;
+}
+
+.rating-stars{
+    margin-top: 20px;
+}

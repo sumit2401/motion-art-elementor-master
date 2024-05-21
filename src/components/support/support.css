@@ -1,0 +1,27 @@
+.support{
+    border-style: solid;
+    border-width: 2px;
+    border-color: aliceblue;
+    margin: 0px 290px;
+    padding: 25px 30px;
+    background-color: #0f1632;
+    border-color: rgb(56, 61, 103);
+    border-radius: 30px;
+
+}
+.suph{
+    font-size: 25px;
+    background-color: #0f1632;
+    font-weight: 500;
+    
+}
+.para{
+    text-align: center;
+    margin:auto;
+    width: 430px;
+    padding: 10px 0 ;
+    background-color: #0f1632;
+}
+.supimg{
+    background-color: #0f1632;
+}

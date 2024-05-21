@@ -1,0 +1,19 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+.navbar-l{
+    margin-left: 18rem;
+    margin-top: 20px;
+    color: aliceblue;
+}
+.navbar-r{
+    margin-right: 18rem;
+}
+button{
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 35px;
+    background-color: aliceblue;
+    
+}
